@@ -45,7 +45,8 @@ This repository contains a personal summarized guide of the **Digital Forensics 
 ## ⚙️ How to Use
 Simply download the PDF file directly from this repository and open it with any PDF reader.
 
-> 📎 [Download Digital_Forensics_Fundamentals.pdf](./Digital_Forensics_Fundamentals.pdf)
+> 📎 [Download Digital_Forensics_Fundamentals.pdf]
+https://github.com/elyasec0/Digital-Forensics-Fundamentals/tree/main
 
 ---
 

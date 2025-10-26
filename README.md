@@ -43,13 +43,19 @@ This repository contains a personal summarized guide of the **Digital Forensics 
 ---
 
 ## ⚙️ How to Use
-Clone this repository using:
+Simply download the PDF file directly from this repository and open it with any PDF reader.
 
-```bash
-git clone https://github.com/elyasec0/Digital-Forensics-Fundamentals.git
+> 📎 [Download Digital_Forensics_Fundamentals.pdf](./Digital_Forensics_Fundamentals.pdf)
 
-📚 References
+---
 
-Guide to Computer Forensics and Investigations (Sixth Edition)
-Autopsy Documentation (PDF)
-Digital Forensics Fundamentals Course
+## 📚 References
+1. *Guide to Computer Forensics and Investigations* (Sixth Edition)  
+2. *Autopsy Documentation (PDF)*  
+3. *Digital Forensics Fundamentals Course*
+
+---
+
+## 🧠 About the Author
+**Elyas (@elyasec0)**  
+Cybersecurity & Digital Forensics Enthusiast — focused on ethical hacking, threat analysis, and building educational resources.
